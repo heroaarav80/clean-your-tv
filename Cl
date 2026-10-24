@@ -1,0 +1,19 @@
+CleanYourTV/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── assets/
+│   └── dock.txt
+├── src/
+│   └── com/
+│       └── tvhome/
+│           └── launcher/
+│               ├── MainActivity.java
+│               ├── AnalogClockView.java
+│               ├── ClockDream.java
+│               └── Wallpapers.java
+├── AndroidManifest.xml
+├── build.sh
+├── install.sh
+├── README.md
+└── LICENSE
